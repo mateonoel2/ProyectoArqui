@@ -6,4 +6,4 @@ $ iverilog -o a.out alu.v mipsmem.v mipsmulti_xx.v mipsparts.v mipstest.v topmul
 
 $ vvp a.out
 
-* Se generará el archivo mipstest.vcd,donde podrá ver los waveforms
+* Se generará el archivo mipstest.vcd, donde podrá ver los waveforms
